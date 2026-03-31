@@ -26,7 +26,6 @@ int basic_cal(){
 		printf("invaild input");
 	}
     cout<<num1<<symbol<<num2<<" is  "<<sum;
-    printf("do you want to continue (y/n):");cin>>stop;
 	
     return 0;
 }
